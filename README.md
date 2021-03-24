@@ -42,10 +42,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](Light&Sound(GameLose).gif)
-![](Light&Sound(GameWin).gif)
-![](Light&Sound(StartStop).gif)
 
+User Toggles Between Start and Stop Button
+![](Light&Sound(StartStop).gif)
+User Loses the Game
+![](Light&Sound(GameLose).gif)
+User Wins the Game
+![](Light&Sound(GameWin).gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
