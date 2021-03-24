@@ -8,9 +8,9 @@ Time spent: **4.5** hours spent in total
 
 Link to project: 
 
-[Live Site](https://schit-memory-game.glitch.me)
+Live site: https://schit-memory-game.glitch.me
 
-[Code](https://glitch.com/edit/#!/schit-memory-game)
+Code: https://glitch.com/edit/#!/schit-memory-game
 
 ## Required Functionality
 
@@ -36,7 +36,6 @@ The following **optional** features are implemented:
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [ ] User has a limited amount of time to enter their guess on each turn
 
-The following **additional** features are implemented:
 
 
 ## Video Walkthrough
